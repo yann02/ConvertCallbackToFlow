@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ConvertCallbackToFlow</string>
+    <string name="start">Start</string>
+    <string name="cancel">Cancel</string>
+    <string name="increase_default">0</string>
+    <string name="increase">Increase</string>
+    <string name="download">Download</string>
+    <string name="progress">%d/%d</string>
+</resources>
